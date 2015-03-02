@@ -1,12 +1,12 @@
-# Find A Hospital
+# Find A Hospital [Demo Version]
 
-Hi! I am Rohan Katyal, an aspiring GSOC'15 student. 
+Hi! I am Rohan Katyal, an aspiring GSOC'15 student
 
 ## 1. Overview 
 
-Allow users to search for hospitals, pharmacies and doctors on the basis of filters like disease, distance, rating. Hospitals information should include facilities available, number of doctors, specialists available, etc. Project should have APIs which would help other frameworks to use our information using REST
+Find A Hospital allows users to search for hospitals, pharmacies and doctors on the basis of filters like disease, distance, rating. Hospitals information should include facilities available, number of doctors, specialists available, etc. Project will have APIs which would help other frameworks to use our information using REST.
 
-## 2. Features
+## 2. Current features
 
 1. Login page
 2. Search bar with autocomplete (using Google Place API)
