@@ -1,7 +1,5 @@
 # Find A Hospital [Demo Version]
 
-Hi! I am Rohan Katyal, an aspiring GSOC'15 student
-
 ## 1. Overview 
 
 Find A Hospital allows users to search for hospitals, pharmacies and doctors on the basis of filters like disease, distance, rating. Hospitals information include facilities available, number of doctors, specialists available, etc. Project will have APIs which would help other frameworks to use our information using REST.
